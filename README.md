@@ -5,9 +5,9 @@
 <p align="center">
     <samp>
         <strong>
-            <img src="files/left-bracket.png" alt="<" width="8">
-            𝐑𝐘Λ𝐍 𝐁Λ𝐋𝐈𝐄𝐈𝐑𝐎
-            <img src="files/right-bracket.png" alt="/>" width="15">
+            <img src="files/left-bracket.png" alt="<" width="5">
+            RYAN BALIEIRO
+            <img src="files/right-bracket.png" alt="/>" width="11">
         </strong>
         <br>
         Web & Mobile Developer
