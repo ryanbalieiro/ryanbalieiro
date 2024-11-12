@@ -4,9 +4,9 @@
 
 <h1 align="center">
     <samp>
-        <img src="files/left-bracket.png" alt="<" width="14">
+        <img src="files/left-bracket.png" alt="<" width="13">
         <strong>RYΛN BΛLIEIRO</strong>
-        <img src="files/right-bracket.png" alt="/>" width="26">
+        <img src="files/right-bracket.png" alt="/>" width="24">
     </samp>
 </h3>
 
