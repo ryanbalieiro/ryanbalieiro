@@ -16,7 +16,7 @@
 
 <p align="center">
     <samp>
-    "Just another byte gliding through a world of zeros and ones..." 👾️
+    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." 👾️
     <br/>
         <a href="https://ryanbalieiro.com">Visit my website</a> ᐧ
         <a href="mailto:ryanbalieiro@icloud.com">E-mail me</a> ᐧ
