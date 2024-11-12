@@ -3,9 +3,9 @@
 </p>
 
 <h3 align="center">
-    <img src="files/left-bracket.png" alt="<" width="10">
-    Ryan Balieiro
-    <img src="files/right-bracket.png" alt="/>" width="18">
+    <img src="files/left-bracket.png" alt="<" width="9">
+    𝐑𝐲𝐚𝐧 𝐁𝐚𝐥𝐢𝐞𝐢𝐫𝐨
+    <img src="files/right-bracket.png" alt="/>" width="16">
 </h4>
 
 <p align="center">
