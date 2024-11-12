@@ -2,14 +2,14 @@
     <img src="files/logo.png" alt="Ryan Balieiro" width="150">
 </p>
 
+<h3 align="center">
+    <img src="files/left-bracket.png" alt="<" width="10">
+    Ryan Balieiro
+    <img src="files/right-bracket.png" alt="/>" width="18">
+</h4>
+
 <p align="center">
     <samp>
-        <strong>
-            <img src="files/left-bracket.png" alt="<" width="8">
-            RYAN BALIEIRO
-            <img src="files/right-bracket.png" alt="/>" width="15">
-        </strong>
-        <br>
         Web & Mobile Developer
     </samp>
 </p>
