@@ -6,7 +6,7 @@
     <samp>
         <span>
             <img src="files/left-bracket.png" alt="<" width="7">
-            RYAN <strong>BALIEIRO</strong>
+            <strong>RYAN BALIEIRO</strong>
             <img src="files/right-bracket.png" alt="/>" width="13">
         </span>
         <br/>
