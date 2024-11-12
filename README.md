@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-    <strong style="font-size: 28px;">
-        <img src="files/bracket-left.png" alt="Ryan Balieiro" width="12">
-        Ryan Balieiro 
-        <img src="files/bracket-right.png" alt="Ryan Balieiro" width="26">
-    </strong>
-    <br>
     <samp>
+        <strong>
+            <img src="files/left-bracket.png" alt="<" width="8">
+            𝐑𝐘Λ𝐍 𝐁Λ𝐋𝐈𝐄𝐈𝐑𝐎
+            <img src="files/right-bracket.png" alt="/>" width="15">
+        </strong>
+        <br>
         Web & Mobile Developer
     </samp>
 </p>
