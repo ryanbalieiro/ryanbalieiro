@@ -29,3 +29,7 @@
        Cheers! 🥂🥂
     </samp>
 </p>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ryanbalieiro&style=flat-square&color=f6b846">
+</p>
