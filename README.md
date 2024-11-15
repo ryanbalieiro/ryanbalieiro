@@ -11,6 +11,11 @@
 </p>
 
 <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ryanbalieiro&style=flat-square&color=f6b846">
+</p>
+
+
+<p align="center">
     <samp>
         "Every great developer got there by solving problems they were unqualified to solve until they actually did it." 👾️
     </samp>
@@ -28,8 +33,4 @@
     <samp>
        Cheers! 🥂🥂
     </samp>
-</p>
-
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=ryanbalieiro&style=flat-square&color=f6b846">
 </p>
