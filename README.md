@@ -25,7 +25,7 @@
     <samp>
         <a href="https://ryanbalieiro.com">Visit my website</a> ᐧ
         <a href="mailto:ryanbalieiro@icloud.com">E-mail me</a> ᐧ
-        <a href="https://telegram.me/ryanbalieiro">Send me a message</a>
+        <a href="https://www.snapchat.com/@ryan.balieiro?locale=en_US">Send me a message</a>
     </samp>
 </p>
 
