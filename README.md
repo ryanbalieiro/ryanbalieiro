@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="files/logo.png" alt="Ryan Balieiro" width="150">
+    <img src="files/logo.png" alt="Ryan Balieiro" width="130">
 </p>
 
 <p align="center">
